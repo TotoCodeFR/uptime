@@ -16,5 +16,23 @@
     "timeMonth": 112,
     "timeYear": 106,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Nuit Keep Alive",
+    "url": "https://ddfda2b6-7916-4bfe-a89d-c990b76f654c-00-29eaty4d8mwpy.picard.replit.dev/",
+    "icon": "https://icons.duckduckgo.com/ip3/ddfda2b6-7916-4bfe-a89d-c990b76f654c-00-29eaty4d8mwpy.picard.replit.dev.ico",
+    "slug": "nuit-keep-alive",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 272,
+    "timeDay": 272,
+    "timeWeek": 272,
+    "timeMonth": 272,
+    "timeYear": 272,
+    "dailyMinutesDown": {}
   }
 ]
