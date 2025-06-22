@@ -5,8 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: TotoCodeFR 
     url: https://totocodefr.github.io
-  - name: Nuit Keep Alive 
-    url: https://ddfda2b6-7916-4bfe-a89d-c990b76f654c-00-29eaty4d8mwpy.picard.replit.dev/
+  - name: Nuit Keep Alibe
+    url: https://nuit-bot-fr.onrender.com/ping
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
