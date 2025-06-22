@@ -11,28 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 107,
-    "timeDay": 174,
-    "timeWeek": 129,
-    "timeMonth": 117,
+    "timeDay": 172,
+    "timeWeek": 132,
+    "timeMonth": 119,
     "timeYear": 107,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Nuit Keep Alibe",
-    "url": "https://nuit-bot-fr.onrender.com/ping",
-    "icon": "https://icons.duckduckgo.com/ip3/nuit-bot-fr.onrender.com.ico",
-    "slug": "nuit-keep-alibe",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 460,
-    "timeDay": 460,
-    "timeWeek": 460,
-    "timeMonth": 460,
-    "timeYear": 460,
     "dailyMinutesDown": {}
   }
 ]
