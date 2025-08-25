@@ -4,17 +4,19 @@
     "url": "https://totocodefr.github.io",
     "icon": "https://icons.duckduckgo.com/ip3/totocodefr.github.io.ico",
     "slug": "toto-code-fr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 113,
-    "timeDay": 198,
-    "timeWeek": 115,
-    "timeMonth": 103,
-    "timeYear": 113,
-    "dailyMinutesDown": {}
+    "time": 114,
+    "timeDay": 238,
+    "timeWeek": 135,
+    "timeMonth": 109,
+    "timeYear": 114,
+    "dailyMinutesDown": {
+      "2025-08-25": 7
+    }
   }
 ]
